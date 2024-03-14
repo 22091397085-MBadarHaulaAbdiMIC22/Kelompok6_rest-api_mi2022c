@@ -16,5 +16,6 @@ Link: https://github.com/vittokris/tugas_1_api_kelompok6.git
 
 
  Berikut merupakan source code dan tampilan hasil dokumentasi OpenApi pada pengelolan data mahasiswa
+ ![Screenshot (834)](https://github.com/22091397085-MBadarHaulaAbdiMIC22/Kelompok6_rest-api_mi2022c/assets/144098215/296b2c98-f90b-4604-9e83-c8c94c201ab9)
 
  
