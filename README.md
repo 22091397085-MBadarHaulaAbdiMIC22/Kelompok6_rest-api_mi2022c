@@ -26,9 +26,9 @@ Link: https://github.com/vittokris/tugas_1_api_kelompok6.git
  ![json1](https://github.com/22091397085-MBadarHaulaAbdiMIC22/Kelompok6_rest-api_mi2022c/assets/144098215/d8da7201-87cd-4c39-b058-0bc4051078a0)
  ![json2](https://github.com/22091397085-MBadarHaulaAbdiMIC22/Kelompok6_rest-api_mi2022c/assets/144098215/68440531-a3d9-4772-bbc8-24648d69a5ea)
  ![delete php](https://github.com/22091397085-MBadarHaulaAbdiMIC22/Kelompok6_rest-api_mi2022c/assets/144098215/61c26121-d577-4d6d-bda3-6a4a4b427704)
- ![data php](https://github.com/22091397085-MBadarHaul
+ ![data php](https://github.com/22091397085-MBadarHaulaAbdiMIC22/Kelompok6_rest-api_mi2022c/assets/144098215/4d042f2c-cfad-4733-9ec6-4f10199ebd81)
  ![update php](https://github.com/22091397085-MBadarHaulaAbdiMIC22/Kelompok6_rest-api_mi2022c/assets/144098215/384e092a-3ec1-4103-adb2-497c898f258f)
- aAbdiMIC22/Kelompok6_rest-api_mi2022c/assets/144098215/4d042f2c-cfad-4733-9ec6-4f10199ebd81)
+
 
 
  
