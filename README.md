@@ -6,7 +6,6 @@ Dosen pengampu : Andi Iwan Nurhidayat, S.Kom., M. T.
 
 Disusun oleh kelompok 6 (link github) :
 
-LINK Github Anggota Kelompok 6:
 1.	M. Badar Haula Abdi (22091397085):
 Link: https://github.com/22091397085-MBadarHaulaAbdiMIC22/Kelompok6_rest-api_mi2022c 
 2.	Ahmad Balya Diwanullatif (22091397095):
